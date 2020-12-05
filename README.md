@@ -1,6 +1,7 @@
 # DistributedFileServer : EEL5737 - Fall 2020
 Unix FS distributed across multiple server, mocking RAID5 approach. Redundancy and Fault Tolerance.
-##How to Run the Program?
+
+## How to Run the Program?
 1. Download the files. 
 2. Open terminals separately and start server like below commands: 
 
@@ -22,6 +23,6 @@ Unix FS distributed across multiple server, mocking RAID5 approach. Redundancy a
   
   The third argument specifies the number of servers. Followed by the server names to connect to. 
 
-##How to Check what's working?
+## How to Check what's working?
 
 Check the file generated memoryfs_log
